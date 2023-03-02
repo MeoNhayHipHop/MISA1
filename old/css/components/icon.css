@@ -1,0 +1,46 @@
+.icon_square {
+    background-color: #d9d9d99d;
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+}
+
+.icon_search {
+    background-image: url(../resource/icon/search.png);
+    background-size: 16px 16px;
+}
+
+.icon_filter {
+    background-image: url(../../assets/icon/search.png);
+    background-size: 16px 16px;
+}
+
+.icon_prevopacity {
+    background-image: url(../../assets/icon/arrowhead-left-outline.svg);
+    background-size: 16px 16px;
+}
+
+.icon_prev {
+    background-image: url(../resource/icon/btn-prev-page.svg);
+    background-size: 24px 24px;
+}
+
+
+.icon_next {
+    background-image: url(../../assets/icon/btn-next-page.svg);
+    background-size: 24px 24px;
+}
+
+.icon_circle {
+    background-color: #d9d9d99d;
+    width: 36px;
+    height: 36px;
+    border-radius: 90px;
+}
+
+.icon_text {
+    background-color: #a7c4ff25;
+    ;
+    width: 113px;
+    height: 14px;
+}

@@ -1,0 +1,87 @@
+.btn {
+    display: flex;
+    height: 36px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    min-width: 100px;
+    box-sizing: border-box;
+}
+
+.btn--icon {
+    padding: 10px 10px;
+    width: 16px;
+    height: 16px;
+}
+
+.btn--iconwithtext {
+    padding-left: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 8px;
+    width: 16px;
+    height: 16px;
+}
+
+.btn--text {
+    padding-right: 16px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+
+.btn--default {
+    background-color: #50B83C;
+    padding: 0px !important;
+    border: unset;
+}
+
+.btn--defaultopacity {
+    background-color: #F4FFF2;
+    padding: 0px !important;
+    border: 1px solid #50B83C;
+}
+
+.btn--defaultwhite {
+    border: 1px solid #E0E0E0;
+    background-color: #FFF;
+    padding: 0px !important;
+}
+
+.btn--defaulttransparent {
+    border: unset;
+    background-color: transparent;
+    padding: 0px !important;
+}
+
+.btn--square {
+    margin-left: 12px;
+    display: flex;
+    height: 36px;
+    width: 36px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.btn--square24 {
+    display: flex;
+    height: 25px;
+    width: 24px;
+    border-radius: 4px;
+    border: unset;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 0px !important;
+}
+
+.btn--square36 {
+    display: flex;
+    height: 25px;
+    width: 24px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 0px !important;
+}
